@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="Core\Commands\" />
+    <Folder Include="Core\proxy\" />
     <Folder Include="Core\Template\" />
   </ItemGroup>
 
